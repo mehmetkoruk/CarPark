@@ -1,0 +1,24 @@
+C:\Users\Oğuz\Desktop\c#\otopark\otopark\Otopark\Otopark\bin\Debug\Otopark.exe.config
+C:\Users\Oğuz\Desktop\c#\otopark\otopark\Otopark\Otopark\bin\Debug\Otopark.exe
+C:\Users\Oğuz\Desktop\c#\otopark\otopark\Otopark\Otopark\bin\Debug\Otopark.pdb
+C:\Users\Oğuz\Desktop\c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.csprojAssemblyReference.cache
+C:\Users\Oğuz\Desktop\c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.Form1.resources
+C:\Users\Oğuz\Desktop\c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.Properties.Resources.resources
+C:\Users\Oğuz\Desktop\c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.csproj.GenerateResource.cache
+C:\Users\Oğuz\Desktop\c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.csproj.CoreCompileInputs.cache
+C:\Users\Oğuz\Desktop\c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.exe
+C:\Users\Oğuz\Desktop\c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.pdb
+C:\Users\Oğuz\Desktop\c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.Form2.resources
+C:\Users\Oğuz\Desktop\c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.Form3.resources
+C:\Users\Mehmet\Desktop\mehmet c#\otopark\otopark\Otopark\Otopark\bin\Debug\Otopark.exe.config
+C:\Users\Mehmet\Desktop\mehmet c#\otopark\otopark\Otopark\Otopark\bin\Debug\Otopark.exe
+C:\Users\Mehmet\Desktop\mehmet c#\otopark\otopark\Otopark\Otopark\bin\Debug\Otopark.pdb
+C:\Users\Mehmet\Desktop\mehmet c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.csprojAssemblyReference.cache
+C:\Users\Mehmet\Desktop\mehmet c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.Form1.resources
+C:\Users\Mehmet\Desktop\mehmet c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.Form2.resources
+C:\Users\Mehmet\Desktop\mehmet c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.Form3.resources
+C:\Users\Mehmet\Desktop\mehmet c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\mehmet c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.csproj.GenerateResource.cache
+C:\Users\Mehmet\Desktop\mehmet c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\mehmet c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.exe
+C:\Users\Mehmet\Desktop\mehmet c#\otopark\otopark\Otopark\Otopark\obj\Debug\Otopark.pdb
